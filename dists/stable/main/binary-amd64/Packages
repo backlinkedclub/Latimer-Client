@@ -1,0 +1,14 @@
+Package: latimer
+Version: 0.1.0
+Architecture: amd64
+Maintainer: Shaquel Kothari <shaquel.kothari@traqr.co.uk>
+Filename: pool/latimer_0.1.0.deb
+Size: 953036
+MD5sum: 33605c2ab6fb6bc33d266d31530c19d9
+SHA1: ae81dbd7ab5f7247304b8d18d8312bcc0f6ff7f9
+SHA256: 0b180387dc3c8fe3c176b234aad8c723929e9dd1e1b233e21de7539d68170b7c
+Section: utils
+Priority: optional
+Description: Latimer CLI by Traqr
+ A powerful command-line interface for Latimer developers.
+
